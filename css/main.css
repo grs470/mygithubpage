@@ -1,0 +1,15 @@
+body {
+  background-color: #1D1D1D;
+}
+
+.container {
+	background-color: #FFFFFF;
+}
+
+.right-align {
+  text-align: right;
+}
+
+.main h5, h3{
+  text-align: center;
+}
